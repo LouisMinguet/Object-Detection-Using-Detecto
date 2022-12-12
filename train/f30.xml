@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>f30.jpeg</filename>
+	<path>/my-project-name/f30.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1260</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Formule 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>473</ymin>
+			<xmax>1532</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>

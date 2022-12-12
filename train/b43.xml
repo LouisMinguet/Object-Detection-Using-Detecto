@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>b43.jpeg</filename>
+	<path>/my-project-name/b43.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>622</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Bobsleigh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>148</ymin>
+			<xmax>611</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
